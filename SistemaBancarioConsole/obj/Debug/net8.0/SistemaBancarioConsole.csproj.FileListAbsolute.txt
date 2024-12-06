@@ -1,0 +1,14 @@
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\obj\Debug\net8.0\SistemaBancarioConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\obj\Debug\net8.0\SistemaBancarioConsole.AssemblyInfoInputs.cache
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\obj\Debug\net8.0\SistemaBancarioConsole.AssemblyInfo.cs
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\obj\Debug\net8.0\SistemaBancarioConsole.csproj.CoreCompileInputs.cache
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\bin\Debug\net8.0\SistemaBancarioConsole.exe
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\bin\Debug\net8.0\SistemaBancarioConsole.deps.json
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\bin\Debug\net8.0\SistemaBancarioConsole.runtimeconfig.json
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\bin\Debug\net8.0\SistemaBancarioConsole.dll
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\bin\Debug\net8.0\SistemaBancarioConsole.pdb
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\obj\Debug\net8.0\SistemaBancarioConsole.dll
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\obj\Debug\net8.0\refint\SistemaBancarioConsole.dll
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\obj\Debug\net8.0\SistemaBancarioConsole.pdb
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\obj\Debug\net8.0\SistemaBancarioConsole.genruntimeconfig.cache
+C:\Users\cedua\OneDrive\Documentos\SistemaBancarioConsole\SistemaBancarioConsole\obj\Debug\net8.0\ref\SistemaBancarioConsole.dll
